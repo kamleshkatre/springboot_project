@@ -6,7 +6,7 @@
 trigger:
 - None
 
-pool: default-pool
+pool: Default
 
 steps:
 - task: Maven@3
